@@ -157,7 +157,7 @@ Service workers enable features such as offline support, background sync, push n
 
 
 
-- A short demo with [correctExam]([http://co](https://correctexam.github.io/corrigeExamFront/))
+- A short demo with [correctExam](https://correctexam.github.io/corrigeExamFront/)
 
 ---
 layout: two-cols
